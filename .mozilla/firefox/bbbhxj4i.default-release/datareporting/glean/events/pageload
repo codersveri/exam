@@ -1,0 +1,4 @@
+{"timestamp":132050,"category":"perf","name":"page_load","extra":{"same_origin_nav":"false","load_type":"STOP","load_time":"148","js_exec_time":"1","http_ver":"1","response_time":"26"},"execution_counter":2}
+{"timestamp":143099,"category":"perf","name":"page_load","extra":{"load_time":"84","http_ver":"1","load_type":"NORMAL","response_time":"47"},"execution_counter":2}
+{"timestamp":145048,"category":"perf","name":"page_load","extra":{"load_time":"1948","redirect_time":"466","http_ver":"2","js_exec_time":"64","response_time":"710","load_type":"RELOAD","fcp_time":"1410","redirect_count":"1"},"execution_counter":2}
+{"timestamp":164493,"category":"perf","name":"page_load","extra":{"fcp_time":"571","js_exec_time":"85","same_origin_nav":"false","load_type":"STOP","load_time":"830","http_ver":"2","response_time":"106"},"execution_counter":2}
